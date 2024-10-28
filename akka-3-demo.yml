@@ -1,0 +1,6 @@
+name: akka-3-wallet-2-1
+service:
+  telemetry:
+    tracing:
+      enabled: true
+  image: aludwiko/akka-3-demo:1.0-SNAPSHOT-20241104114154

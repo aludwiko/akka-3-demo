@@ -1,0 +1,5 @@
+package wallet.domain;
+
+public enum WalletError {
+  NOT_SUFFICIENT_FUNDS, INVALID_AMOUNT, LOCK_NOT_FOUND, INVALID_TRANSFER_AMOUNT, TRANSFER_REJECTED
+}
